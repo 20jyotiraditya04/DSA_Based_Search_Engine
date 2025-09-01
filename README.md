@@ -27,9 +27,6 @@ This project provides a specialized search engine for algorithmic problems and d
 ├── public/ # Static assets
 └── views/ # EJS templates
 
-yaml
-Copy code
-
 ---
 
 ## ✨ Key Features
@@ -64,15 +61,13 @@ Where:
 ## 🛠 Usage
 
 ### 1. Install dependencies
-```bash
+
 npm install
+
 2. Start the server
-bash
-Copy code
 npm start
 3. Access the dashboard
-arduino
-Copy code
+
 http://localhost:3000
 📦 Dependencies
 express – Web server framework
@@ -87,9 +82,3 @@ wink-lemmatizer – Text processing
 Advanced search filters
 
 Problem difficulty ratings
-
-User authentication
-
-Submit new problems
-
-Performance optimizations for large datasets
