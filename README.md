@@ -1,120 +1,89 @@
-Algorithm and Data Structure Search Engine
-Efficient search engine dedicated to algorithms and data structure problems. Instantly find coding challenges and solutions using a relevance-ranked search process.
+# Algorithm and Data Structure Search Engine
 
-Introduction
-This project provides a specialized search engine for algorithmic problems and data structures. It streamlines searching through an extensive collection, offering fast, optimized access to coding challenges useful for interview preparation and computer science study.
+An efficient search engine dedicated to algorithms and data structure problems. Instantly find coding challenges and solutions using a relevance-ranked search process.
 
-Project Architecture
-Core Components
-Backend Server: Node.js + Express.js
+---
 
-Search Implementation: TF-IDF (Term Frequency-Inverse Document Frequency)
+## 🚀 Introduction
+This project provides a specialized search engine for algorithmic problems and data structures. It streamlines searching through an extensive collection, offering **fast, optimized access** to coding challenges useful for interview preparation and computer science study.
 
-View Engine: EJS (Embedded JavaScript Templating)
+---
 
-Database: File-based system of problem descriptions.
+## 🏗 Project Architecture
 
-File Structure
-text
-├── index.js           # Main server file
-├── package.json       # Project dependencies
-├── tf-idf.json        # Search index data
-├── idx_vec.json       # Vector indexing
-├── uniqueKeys.json    # Unique identifiers
-├── Database/          # Problem collection
-├── public/            # Static assets
-└── views/             # EJS templates
-Key Features
-Problem Database
+### Core Components
+- **Backend Server:** Node.js + Express.js  
+- **Search Implementation:** TF-IDF (Term Frequency–Inverse Document Frequency)  
+- **View Engine:** EJS (Embedded JavaScript Templating)  
+- **Database:** File-based system of problem descriptions  
 
-Rich, growing collection of algorithm challenges
+### File Structure
+├── index.js # Main server file
+├── package.json # Project dependencies
+├── tf-idf.json # Search index data
+├── idx_vec.json # Vector indexing
+├── uniqueKeys.json # Unique identifiers
+├── Database/ # Problem collection
+├── public/ # Static assets
+└── views/ # EJS templates
 
-Organized in a searchable, indexed text system.
+yaml
+Copy code
 
-Fast, Relevant Search
+---
 
-TF-IDF-based ranking for precise results
+## ✨ Key Features
 
-Fast response with efficient text preprocessing.
+### 📚 Problem Database
+- Rich, growing collection of algorithm challenges  
+- Organized in a searchable, indexed text system  
 
-Search Algorithm
-The engine uses the TF-IDF algorithm:
+### ⚡ Fast, Relevant Search
+- TF-IDF–based ranking for precise results  
+- Fast response with efficient text preprocessing  
 
-T
-F
--
-I
-D
-F
-(
-t
-,
-d
-,
-D
-)
-=
-T
-F
-(
-t
-,
-d
-)
-×
-I
-D
-F
-(
-t
-,
-D
-)
-TF-IDF(t,d,D)=TF(t,d)×IDF(t,D)
+---
+
+## 🔍 Search Algorithm
+
+The engine uses the **TF-IDF** algorithm:
+
+\[
+TF\text{-}IDF(t,d,D) = TF(t,d) \times IDF(t,D)
+\]
+
 Where:
+- **t** → term  
+- **d** → document  
+- **D** → collection  
+- **TF** → term frequency  
+- **IDF** → inverse document frequency  
 
-t
-t: term
+---
 
-d
-d: document
+## 🛠 Usage
 
-D
-D: collection
-
-T
-F
-TF: term frequency
-
-I
-D
-F
-IDF: inverse document frequency
-.
-
-Usage
-Install dependencies
-
-bash
+### 1. Install dependencies
+```bash
 npm install
-Start the server
-
+2. Start the server
 bash
+Copy code
 npm start
-Access the dashboard
+3. Access the dashboard
+arduino
+Copy code
 http://localhost:3000
-.
+📦 Dependencies
+express – Web server framework
 
-Dependencies
-express: Web server framework
+ejs – View templating
 
-ejs: View templating
+nodemon – Development server
 
-nodemon: Development server
+wink-lemmatizer – Text processing
 
-wink-lemmatizer: Text processing.
-
-Future Enhancements
+🔮 Future Enhancements
 Advanced search filters
 
 Problem difficulty ratings
@@ -123,7 +92,4 @@ User authentication
 
 Submit new problems
 
-Performance optimizations for large datasets.
-
-Contributing
-Contributions, issue reports, and suggestions are welcome! Please submit pull requests or open issues on GitHub for feedback and discussions.
+Performance optimizations for large datasets
