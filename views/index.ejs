@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DSA Based Search Engine</title>
+    <link rel="stylesheet" href="./indexstyle.css">
+</head>
+
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>DSA Based Search Engine</h1>
+            <p class="subtitle">Find algorithms and data structures solutions instantly</p>
+        </header>
+
+        <section class="search-section">
+            <form class="search-form">
+                <input 
+                    id="userInp" 
+                    class="search-input"
+                    placeholder="Search for algorithms, data structures..." 
+                    aria-label="Search Question" 
+                    type="text"
+                    autocomplete="off"
+                >
+                <button id="submit" class="search-button" type="submit">
+                    Search
+                </button>
+            </form>
+        </section>
+
+        <div id="found" class="status-message"></div>
+
+        <section class="results-section">
+            <ul class="results-list">
+                <li class="result-item">
+                    <a href="#" class="result-link" target="_blank"></a>
+                </li>
+                <li class="result-item">
+                    <a href="#" class="result-link" target="_blank"></a>
+                </li>
+                <li class="result-item">
+                    <a href="#" class="result-link" target="_blank"></a>
+                </li>
+                <li class="result-item">
+                    <a href="#" class="result-link" target="_blank"></a>
+                </li>
+                <li class="result-item">
+                    <a href="#" class="result-link" target="_blank"></a>
+                </li>
+                <li class="result-item">
+                    <a href="#" class="result-link" target="_blank"></a>
+                </li>
+                <li class="result-item">
+                    <a href="#" class="result-link" target="_blank"></a>
+                </li>
+                <li class="result-item">
+                    <a href="#" class="result-link" target="_blank"></a>
+                </li>
+                <li class="result-item">
+                    <a href="#" class="result-link" target="_blank"></a>
+                </li>
+                <li class="result-item">
+                    <a href="#" class="result-link" target="_blank"></a>
+                </li>
+                <li class="result-item">
+                    <a href="#" class="result-link" target="_blank"></a>
+                </li>
+                <li class="result-item">
+                    <a href="#" class="result-link" target="_blank"></a>
+                </li>
+            </ul>
+        </section>
+    </div>
+
+    <script>
+        const form = document.querySelector(".search-form");
+        const question = form.userInp;
+        const links = document.querySelectorAll(".result-link");
+        const statusMessage = document.querySelector("#found");
+        let searchData;
+
+        // Hide all result items initially
+        document.querySelectorAll('.result-item').forEach(item => {
+            item.style.display = 'none';
+        });
+
+        form.addEventListener('submit', async(e) => {
+            e.preventDefault();
+            
+            const query = question.value.trim();
+            if (!query) {
+                alert("Please enter a search term!");
+                return;
+            }
+
+            try {
+                // Show loading state
+                statusMessage.innerHTML = '<span class="loading">Searching...</span>';
+                statusMessage.className = 'status-message loading';
+                
+                // Hide all results
+                document.querySelectorAll('.result-item').forEach(item => {
+                    item.style.display = 'none';
+                });
+                links.forEach(link => {
+                    link.innerHTML = '';
+                    link.href = '#';
+                });
+
+                const response = await fetch(`/search?question=${encodeURIComponent(query)}`, {
+                    method: "GET"
+                });
+                
+                if (!response.ok) {
+                    throw new Error('Search failed');
+                }
+                
+                searchData = await response.json();
+                
+                // Update status message
+                const resultCount = searchData.filter(item => item && item.title).length;
+                if (resultCount > 0) {
+                    statusMessage.innerHTML = `Found ${resultCount} result${resultCount !== 1 ? 's' : ''}`;
+                    statusMessage.className = 'status-message';
+                } else {
+                    statusMessage.innerHTML = 'No results found. Try different keywords.';
+                    statusMessage.className = 'status-message';
+                }
+                
+                // Populate results
+                links.forEach((link, index) => {
+                    if (searchData[index] && searchData[index].title) {
+                        link.innerHTML = searchData[index].title;
+                        link.href = searchData[index].url || '#';
+                        link.parentElement.style.display = 'block';
+                    }
+                });
+                
+            } catch (error) {
+                console.error('Search error:', error);
+                statusMessage.innerHTML = 'Search failed. Please try again.';
+                statusMessage.className = 'status-message loading';
+            }
+        });
+
+        // Add enter key support for search
+        question.addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') {
+                form.dispatchEvent(new Event('submit'));
+            }
+        });
+    </script>
+
+</body>
+
+</html>
