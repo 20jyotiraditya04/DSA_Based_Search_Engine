@@ -1,5 +1,7 @@
 # Algorithm and Data Structure Search Engine
 
+🚀 **Live Demo:** [The project is deployed here.](https://dsa-based-search-engine.onrender.com)
+
 An efficient search engine dedicated to algorithms and data structure problems. Instantly find coding challenges and solutions using a relevance-ranked search process.
 
 ---
