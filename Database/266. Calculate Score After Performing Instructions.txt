@@ -1,0 +1,3 @@
+Title: Calculate Score After Performing Instructions
+Link: https://leetcode.com/problems/calculate-score-after-performing-instructions/
+Source: LeetCode

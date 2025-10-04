@@ -1,0 +1,3 @@
+Title: Consecutive Transactions with Increasing Amounts
+Link: https://leetcode.com/problems/consecutive-transactions-with-increasing-amounts/
+Source: LeetCode

@@ -1,0 +1,3 @@
+Title: Maximum XOR for Each Query
+Link: https://leetcode.com/problems/maximum-xor-for-each-query/
+Source: LeetCode

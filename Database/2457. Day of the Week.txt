@@ -1,0 +1,3 @@
+Title: Day of the Week
+Link: https://leetcode.com/problems/day-of-the-week/
+Source: LeetCode

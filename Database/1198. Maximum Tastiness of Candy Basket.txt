@@ -1,0 +1,3 @@
+Title: Maximum Tastiness of Candy Basket
+Link: https://leetcode.com/problems/maximum-tastiness-of-candy-basket/
+Source: LeetCode

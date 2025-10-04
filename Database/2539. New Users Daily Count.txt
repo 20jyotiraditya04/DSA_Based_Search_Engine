@@ -1,0 +1,3 @@
+Title: New Users Daily Count
+Link: https://leetcode.com/problems/new-users-daily-count/
+Source: LeetCode

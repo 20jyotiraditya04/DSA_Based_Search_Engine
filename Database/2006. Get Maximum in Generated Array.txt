@@ -1,0 +1,3 @@
+Title: Get Maximum in Generated Array
+Link: https://leetcode.com/problems/get-maximum-in-generated-array/
+Source: LeetCode

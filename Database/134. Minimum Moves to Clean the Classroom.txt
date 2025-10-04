@@ -1,0 +1,3 @@
+Title: Minimum Moves to Clean the Classroom
+Link: https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/
+Source: LeetCode

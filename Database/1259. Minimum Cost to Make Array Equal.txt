@@ -1,0 +1,3 @@
+Title: Minimum Cost to Make Array Equal
+Link: https://leetcode.com/problems/minimum-cost-to-make-array-equal/
+Source: LeetCode

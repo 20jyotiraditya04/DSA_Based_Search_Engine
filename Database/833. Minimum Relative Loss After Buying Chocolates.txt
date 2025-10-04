@@ -1,0 +1,3 @@
+Title: Minimum Relative Loss After Buying Chocolates
+Link: https://leetcode.com/problems/minimum-relative-loss-after-buying-chocolates/
+Source: LeetCode

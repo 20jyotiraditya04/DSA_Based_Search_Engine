@@ -1,0 +1,3 @@
+Title: Maximum of Absolute Value Expression
+Link: https://leetcode.com/problems/maximum-of-absolute-value-expression/
+Source: LeetCode

@@ -1,0 +1,3 @@
+Title: Maximum Good Subtree Score
+Link: https://leetcode.com/problems/maximum-good-subtree-score/
+Source: LeetCode

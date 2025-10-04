@@ -1,0 +1,3 @@
+Title: Minimum Lines to Represent a Line Chart
+Link: https://leetcode.com/problems/minimum-lines-to-represent-a-line-chart/
+Source: LeetCode

@@ -1,0 +1,3 @@
+Title: Count Unhappy Friends
+Link: https://leetcode.com/problems/count-unhappy-friends/
+Source: LeetCode

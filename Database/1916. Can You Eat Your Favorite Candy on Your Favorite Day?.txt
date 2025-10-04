@@ -1,0 +1,3 @@
+Title: Can You Eat Your Favorite Candy on Your Favorite Day?
+Link: https://leetcode.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/
+Source: LeetCode

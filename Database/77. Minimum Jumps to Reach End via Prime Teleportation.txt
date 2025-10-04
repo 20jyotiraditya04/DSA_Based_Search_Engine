@@ -1,0 +1,3 @@
+Title: Minimum Jumps to Reach End via Prime Teleportation
+Link: https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/
+Source: LeetCode

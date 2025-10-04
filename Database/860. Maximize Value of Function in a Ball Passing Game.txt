@@ -1,0 +1,3 @@
+Title: Maximize Value of Function in a Ball Passing Game
+Link: https://leetcode.com/problems/maximize-value-of-function-in-a-ball-passing-game/
+Source: LeetCode

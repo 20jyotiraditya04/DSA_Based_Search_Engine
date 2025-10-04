@@ -1,0 +1,3 @@
+Title: Amount of Time for Binary Tree to Be Infected
+Link: https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/
+Source: LeetCode

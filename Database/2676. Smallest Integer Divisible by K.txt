@@ -1,0 +1,3 @@
+Title: Smallest Integer Divisible by K
+Link: https://leetcode.com/problems/smallest-integer-divisible-by-k/
+Source: LeetCode

@@ -1,0 +1,3 @@
+Title: Minimum Number of Operations to Make String Sorted
+Link: https://leetcode.com/problems/minimum-number-of-operations-to-make-string-sorted/
+Source: LeetCode

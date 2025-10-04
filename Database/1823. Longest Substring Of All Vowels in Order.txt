@@ -1,0 +1,3 @@
+Title: Longest Substring Of All Vowels in Order
+Link: https://leetcode.com/problems/longest-substring-of-all-vowels-in-order/
+Source: LeetCode

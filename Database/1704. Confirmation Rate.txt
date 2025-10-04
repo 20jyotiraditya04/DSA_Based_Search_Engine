@@ -1,0 +1,3 @@
+Title: Confirmation Rate
+Link: https://leetcode.com/problems/confirmation-rate/
+Source: LeetCode

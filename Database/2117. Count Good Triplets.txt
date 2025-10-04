@@ -1,0 +1,3 @@
+Title: Count Good Triplets
+Link: https://leetcode.com/problems/count-good-triplets/
+Source: LeetCode

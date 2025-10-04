@@ -1,0 +1,3 @@
+Title: Minimum Jumps to Reach Home
+Link: https://leetcode.com/problems/minimum-jumps-to-reach-home/
+Source: LeetCode

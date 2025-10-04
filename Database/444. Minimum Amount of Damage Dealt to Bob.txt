@@ -1,0 +1,3 @@
+Title: Minimum Amount of Damage Dealt to Bob
+Link: https://leetcode.com/problems/minimum-amount-of-damage-dealt-to-bob/
+Source: LeetCode

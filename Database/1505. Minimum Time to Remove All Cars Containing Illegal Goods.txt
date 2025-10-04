@@ -1,0 +1,3 @@
+Title: Minimum Time to Remove All Cars Containing Illegal Goods
+Link: https://leetcode.com/problems/minimum-time-to-remove-all-cars-containing-illegal-goods/
+Source: LeetCode

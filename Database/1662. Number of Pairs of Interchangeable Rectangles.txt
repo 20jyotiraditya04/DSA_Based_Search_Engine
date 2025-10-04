@@ -1,0 +1,3 @@
+Title: Number of Pairs of Interchangeable Rectangles
+Link: https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/
+Source: LeetCode

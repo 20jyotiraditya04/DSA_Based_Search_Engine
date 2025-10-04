@@ -1,0 +1,3 @@
+Title: Remove Stones to Minimize the Total
+Link: https://leetcode.com/problems/remove-stones-to-minimize-the-total/
+Source: LeetCode

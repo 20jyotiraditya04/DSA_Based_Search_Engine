@@ -1,0 +1,3 @@
+Title: Transform Array to All Equal Elements
+Link: https://leetcode.com/problems/transform-array-to-all-equal-elements/
+Source: LeetCode

@@ -1,0 +1,3 @@
+Title: Minimum Edge Weight Equilibrium Queries in a Tree
+Link: https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree/
+Source: LeetCode

@@ -1,0 +1,3 @@
+Title: Maximum Product Difference Between Two Pairs
+Link: https://leetcode.com/problems/maximum-product-difference-between-two-pairs/
+Source: LeetCode

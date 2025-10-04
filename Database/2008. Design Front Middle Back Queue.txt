@@ -1,0 +1,3 @@
+Title: Design Front Middle Back Queue
+Link: https://leetcode.com/problems/design-front-middle-back-queue/
+Source: LeetCode

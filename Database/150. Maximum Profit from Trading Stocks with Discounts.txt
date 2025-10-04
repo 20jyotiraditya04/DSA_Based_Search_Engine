@@ -1,0 +1,3 @@
+Title: Maximum Profit from Trading Stocks with Discounts
+Link: https://leetcode.com/problems/maximum-profit-from-trading-stocks-with-discounts/
+Source: LeetCode

@@ -1,0 +1,3 @@
+Title: Widest Vertical Area Between Two Points Containing No Points
+Link: https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/
+Source: LeetCode

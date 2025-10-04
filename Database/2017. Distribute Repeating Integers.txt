@@ -1,0 +1,3 @@
+Title: Distribute Repeating Integers
+Link: https://leetcode.com/problems/distribute-repeating-integers/
+Source: LeetCode

@@ -1,0 +1,3 @@
+Title: Count Increasing Quadruplets
+Link: https://leetcode.com/problems/count-increasing-quadruplets/
+Source: LeetCode

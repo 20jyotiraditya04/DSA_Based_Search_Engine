@@ -1,0 +1,3 @@
+Title: Faulty Sensor
+Link: https://leetcode.com/problems/faulty-sensor/
+Source: LeetCode

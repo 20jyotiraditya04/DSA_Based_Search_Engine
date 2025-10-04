@@ -1,0 +1,3 @@
+Title: Maximize Active Section with Trade I
+Link: https://leetcode.com/problems/maximize-active-section-with-trade-i/
+Source: LeetCode

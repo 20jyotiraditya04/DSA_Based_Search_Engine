@@ -1,0 +1,3 @@
+Title: Beautiful Pairs
+Link: https://leetcode.com/problems/beautiful-pairs/
+Source: LeetCode

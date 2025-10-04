@@ -1,0 +1,3 @@
+Title: Minimum Score by Changing Two Elements
+Link: https://leetcode.com/problems/minimum-score-by-changing-two-elements/
+Source: LeetCode

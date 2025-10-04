@@ -1,0 +1,3 @@
+Title: Peaks in Array
+Link: https://leetcode.com/problems/peaks-in-array/
+Source: LeetCode

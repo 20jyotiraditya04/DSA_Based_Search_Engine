@@ -1,0 +1,3 @@
+Title: Find Special Substring of Length K
+Link: https://leetcode.com/problems/find-special-substring-of-length-k/
+Source: LeetCode

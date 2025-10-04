@@ -1,0 +1,3 @@
+Title: Number of Common Factors
+Link: https://leetcode.com/problems/number-of-common-factors/
+Source: LeetCode

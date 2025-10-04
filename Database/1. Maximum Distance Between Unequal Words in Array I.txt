@@ -1,0 +1,3 @@
+Title: Maximum Distance Between Unequal Words in Array I
+Link: https://leetcode.com/problems/maximum-distance-between-unequal-words-in-array-i/
+Source: LeetCode

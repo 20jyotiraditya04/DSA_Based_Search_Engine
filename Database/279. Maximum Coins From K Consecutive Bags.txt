@@ -1,0 +1,3 @@
+Title: Maximum Coins From K Consecutive Bags
+Link: https://leetcode.com/problems/maximum-coins-from-k-consecutive-bags/
+Source: LeetCode

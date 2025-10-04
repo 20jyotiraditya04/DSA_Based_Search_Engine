@@ -1,0 +1,3 @@
+Title: Faulty Keyboard
+Link: https://leetcode.com/problems/faulty-keyboard/
+Source: LeetCode

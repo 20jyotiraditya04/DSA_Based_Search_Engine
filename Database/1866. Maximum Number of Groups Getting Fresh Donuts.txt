@@ -1,0 +1,3 @@
+Title: Maximum Number of Groups Getting Fresh Donuts
+Link: https://leetcode.com/problems/maximum-number-of-groups-getting-fresh-donuts/
+Source: LeetCode

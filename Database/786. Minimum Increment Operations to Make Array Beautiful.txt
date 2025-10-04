@@ -1,0 +1,3 @@
+Title: Minimum Increment Operations to Make Array Beautiful
+Link: https://leetcode.com/problems/minimum-increment-operations-to-make-array-beautiful/
+Source: LeetCode

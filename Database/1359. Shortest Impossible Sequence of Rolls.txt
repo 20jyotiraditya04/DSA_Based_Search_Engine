@@ -1,0 +1,3 @@
+Title: Shortest Impossible Sequence of Rolls
+Link: https://leetcode.com/problems/shortest-impossible-sequence-of-rolls/
+Source: LeetCode

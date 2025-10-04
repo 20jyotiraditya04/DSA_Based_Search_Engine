@@ -1,0 +1,3 @@
+Title: Split Array Into Maximum Number of Subarrays
+Link: https://leetcode.com/problems/split-array-into-maximum-number-of-subarrays/
+Source: LeetCode

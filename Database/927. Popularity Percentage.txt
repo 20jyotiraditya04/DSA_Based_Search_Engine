@@ -1,0 +1,3 @@
+Title: Popularity Percentage
+Link: https://leetcode.com/problems/popularity-percentage/
+Source: LeetCode

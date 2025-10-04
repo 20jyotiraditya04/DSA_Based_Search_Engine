@@ -1,0 +1,3 @@
+Title: Using a Robot to Print the Lexicographically Smallest String
+Link: https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/
+Source: LeetCode

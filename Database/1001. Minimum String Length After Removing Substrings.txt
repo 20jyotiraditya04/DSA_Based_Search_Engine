@@ -1,0 +1,3 @@
+Title: Minimum String Length After Removing Substrings
+Link: https://leetcode.com/problems/minimum-string-length-after-removing-substrings/
+Source: LeetCode

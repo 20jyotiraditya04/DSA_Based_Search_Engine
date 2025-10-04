@@ -1,0 +1,3 @@
+Title: Find Consecutive Integers from a Data Stream
+Link: https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/
+Source: LeetCode

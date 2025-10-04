@@ -1,0 +1,3 @@
+Title: Maximum Absolute Sum of Any Subarray
+Link: https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/
+Source: LeetCode

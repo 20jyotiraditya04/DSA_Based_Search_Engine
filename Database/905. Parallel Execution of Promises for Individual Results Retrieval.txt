@@ -1,0 +1,3 @@
+Title: Parallel Execution of Promises for Individual Results Retrieval
+Link: https://leetcode.com/problems/parallel-execution-of-promises-for-individual-results-retrieval/
+Source: LeetCode

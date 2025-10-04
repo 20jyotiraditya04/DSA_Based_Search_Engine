@@ -1,0 +1,3 @@
+Title: Check if Array is Good
+Link: https://leetcode.com/problems/check-if-array-is-good/
+Source: LeetCode

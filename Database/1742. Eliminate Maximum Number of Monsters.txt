@@ -1,0 +1,3 @@
+Title: Eliminate Maximum Number of Monsters
+Link: https://leetcode.com/problems/eliminate-maximum-number-of-monsters/
+Source: LeetCode

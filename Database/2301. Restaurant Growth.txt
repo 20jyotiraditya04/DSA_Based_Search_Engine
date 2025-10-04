@@ -1,0 +1,3 @@
+Title: Restaurant Growth
+Link: https://leetcode.com/problems/restaurant-growth/
+Source: LeetCode

@@ -1,0 +1,3 @@
+Title: Maximum Area of Longest Diagonal Rectangle
+Link: https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/
+Source: LeetCode

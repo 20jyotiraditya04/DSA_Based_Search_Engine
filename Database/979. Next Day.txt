@@ -1,0 +1,3 @@
+Title: Next Day
+Link: https://leetcode.com/problems/next-day/
+Source: LeetCode

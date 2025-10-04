@@ -1,0 +1,3 @@
+Title: Maximum XOR Score Subarray Queries
+Link: https://leetcode.com/problems/maximum-xor-score-subarray-queries/
+Source: LeetCode

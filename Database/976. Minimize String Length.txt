@@ -1,0 +1,3 @@
+Title: Minimize String Length
+Link: https://leetcode.com/problems/minimize-string-length/
+Source: LeetCode

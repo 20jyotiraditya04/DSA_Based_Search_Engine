@@ -1,0 +1,3 @@
+Title: Nested Array Generator
+Link: https://leetcode.com/problems/nested-array-generator/
+Source: LeetCode

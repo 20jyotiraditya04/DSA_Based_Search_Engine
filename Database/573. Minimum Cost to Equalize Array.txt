@@ -1,0 +1,3 @@
+Title: Minimum Cost to Equalize Array
+Link: https://leetcode.com/problems/minimum-cost-to-equalize-array/
+Source: LeetCode

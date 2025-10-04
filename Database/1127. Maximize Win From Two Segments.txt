@@ -1,0 +1,3 @@
+Title: Maximize Win From Two Segments
+Link: https://leetcode.com/problems/maximize-win-from-two-segments/
+Source: LeetCode

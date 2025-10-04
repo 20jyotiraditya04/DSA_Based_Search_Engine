@@ -1,0 +1,3 @@
+Title: Count the Number of Good Nodes
+Link: https://leetcode.com/problems/count-the-number-of-good-nodes/
+Source: LeetCode

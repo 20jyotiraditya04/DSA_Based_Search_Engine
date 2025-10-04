@@ -1,0 +1,3 @@
+Title: Partition Array into Disjoint Intervals
+Link: https://leetcode.com/problems/partition-array-into-disjoint-intervals/
+Source: LeetCode

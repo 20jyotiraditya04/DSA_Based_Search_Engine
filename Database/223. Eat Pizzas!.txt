@@ -1,0 +1,3 @@
+Title: Eat Pizzas!
+Link: https://leetcode.com/problems/eat-pizzas/
+Source: LeetCode

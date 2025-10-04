@@ -1,0 +1,3 @@
+Title: DNA Pattern Recognition
+Link: https://leetcode.com/problems/dna-pattern-recognition/
+Source: LeetCode

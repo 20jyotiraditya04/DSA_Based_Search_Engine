@@ -1,0 +1,3 @@
+Title: Maximum Average Pass Ratio
+Link: https://leetcode.com/problems/maximum-average-pass-ratio/
+Source: LeetCode

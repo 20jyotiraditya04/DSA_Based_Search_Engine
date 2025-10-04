@@ -1,0 +1,3 @@
+Title: Partition Array Into K-Distinct Groups
+Link: https://leetcode.com/problems/partition-array-into-k-distinct-groups/
+Source: LeetCode

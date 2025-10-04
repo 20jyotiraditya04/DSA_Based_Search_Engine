@@ -1,0 +1,3 @@
+Title: Minimum Index of a Valid Split
+Link: https://leetcode.com/problems/minimum-index-of-a-valid-split/
+Source: LeetCode

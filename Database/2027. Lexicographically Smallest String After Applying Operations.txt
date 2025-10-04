@@ -1,0 +1,3 @@
+Title: Lexicographically Smallest String After Applying Operations
+Link: https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/
+Source: LeetCode

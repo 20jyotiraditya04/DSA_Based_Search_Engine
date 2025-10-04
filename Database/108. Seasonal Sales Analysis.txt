@@ -1,0 +1,3 @@
+Title: Seasonal Sales Analysis
+Link: https://leetcode.com/problems/seasonal-sales-analysis/
+Source: LeetCode

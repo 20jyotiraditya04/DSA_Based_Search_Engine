@@ -1,0 +1,3 @@
+Title: Maximum Value after Insertion
+Link: https://leetcode.com/problems/maximum-value-after-insertion/
+Source: LeetCode

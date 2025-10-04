@@ -5,9 +5,9 @@ import json
 import os
 from gensim.parsing.preprocessing import remove_stopwords,STOPWORDS
 all_stopwords= STOPWORDS.union(set(['cses','input','output','example','testcase','submit','leetcode','codeforces','codechef','chef','code']),set(string.ascii_lowercase),set(string.punctuation),set(string.digits),set(string.ascii_uppercase),set(string.printable),set(string.hexdigits))
-file_names=open('./prob_names.txt','r').read().split('\n')
+file_names=open(os.path.join(os.path.dirname(__file__), 'prob_names.txt'),'r').read().split('\n')
 file_names=set(file_names)
-data_path='./Database/'
+data_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '../Database/'))
 General=[]
 with open('uniqueKeys.json','r') as f:
     General=json.load(f)
@@ -15,8 +15,8 @@ with open('uniqueKeys.json','r') as f:
 Documents=[]
 for file_name in file_names:
     if os.path.exists(data_path+file_name+'.txt'):
-        keywords=re.findall("[\w']+",open(data_path+file_name+'.txt','r').read().lower())
-        keywords=[word for word in keywords if not word in all_stopwords]
+        keywords = re.findall(r"[\w']+", open(data_path+file_name+'.txt','r').read().lower())
+        keywords = [word for word in keywords if not word in all_stopwords]
         Documents.append(keywords)
 idx=[]
 for keyword in General:

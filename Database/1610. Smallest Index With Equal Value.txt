@@ -1,0 +1,3 @@
+Title: Smallest Index With Equal Value
+Link: https://leetcode.com/problems/smallest-index-with-equal-value/
+Source: LeetCode

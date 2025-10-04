@@ -1,0 +1,3 @@
+Title: Find Stores with Inventory Imbalance
+Link: https://leetcode.com/problems/find-stores-with-inventory-imbalance/
+Source: LeetCode

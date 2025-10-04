@@ -1,0 +1,3 @@
+Title: Maximize Total Tastiness of Purchased Fruits
+Link: https://leetcode.com/problems/maximize-total-tastiness-of-purchased-fruits/
+Source: LeetCode

@@ -1,0 +1,3 @@
+Title: Minimum Time to Activate String
+Link: https://leetcode.com/problems/minimum-time-to-activate-string/
+Source: LeetCode

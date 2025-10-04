@@ -1,0 +1,3 @@
+Title: Vowels of All Substrings
+Link: https://leetcode.com/problems/vowels-of-all-substrings/
+Source: LeetCode

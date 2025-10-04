@@ -1,0 +1,3 @@
+Title: Distribute Candies to People
+Link: https://leetcode.com/problems/distribute-candies-to-people/
+Source: LeetCode

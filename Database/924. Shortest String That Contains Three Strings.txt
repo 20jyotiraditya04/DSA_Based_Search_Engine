@@ -1,0 +1,3 @@
+Title: Shortest String That Contains Three Strings
+Link: https://leetcode.com/problems/shortest-string-that-contains-three-strings/
+Source: LeetCode

@@ -1,0 +1,3 @@
+Title: Special Array I
+Link: https://leetcode.com/problems/special-array-i/
+Source: LeetCode

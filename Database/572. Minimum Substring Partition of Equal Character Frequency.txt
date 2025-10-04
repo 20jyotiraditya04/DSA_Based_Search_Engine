@@ -1,0 +1,3 @@
+Title: Minimum Substring Partition of Equal Character Frequency
+Link: https://leetcode.com/problems/minimum-substring-partition-of-equal-character-frequency/
+Source: LeetCode

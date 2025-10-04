@@ -1,0 +1,3 @@
+Title: Minimum Deletions to Make Array Beautiful
+Link: https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful/
+Source: LeetCode

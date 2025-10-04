@@ -1,0 +1,3 @@
+Title: Count Ways to Build Rooms in an Ant Colony
+Link: https://leetcode.com/problems/count-ways-to-build-rooms-in-an-ant-colony/
+Source: LeetCode

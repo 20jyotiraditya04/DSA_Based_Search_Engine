@@ -1,0 +1,3 @@
+Title: Minimum Time For K Virus Variants to Spread
+Link: https://leetcode.com/problems/minimum-time-for-k-virus-variants-to-spread/
+Source: LeetCode

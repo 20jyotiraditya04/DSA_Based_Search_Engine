@@ -1,0 +1,3 @@
+Title: Average Waiting Time
+Link: https://leetcode.com/problems/average-waiting-time/
+Source: LeetCode

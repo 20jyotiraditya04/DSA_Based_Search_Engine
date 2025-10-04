@@ -1,0 +1,3 @@
+Title: Adjacent Increasing Subarrays Detection II
+Link: https://leetcode.com/problems/adjacent-increasing-subarrays-detection-ii/
+Source: LeetCode

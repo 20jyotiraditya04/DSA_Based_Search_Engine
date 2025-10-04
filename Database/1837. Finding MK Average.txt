@@ -1,0 +1,3 @@
+Title: Finding MK Average
+Link: https://leetcode.com/problems/finding-mk-average/
+Source: LeetCode

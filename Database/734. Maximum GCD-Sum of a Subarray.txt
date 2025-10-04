@@ -1,0 +1,3 @@
+Title: Maximum GCD-Sum of a Subarray
+Link: https://leetcode.com/problems/maximum-gcd-sum-of-a-subarray/
+Source: LeetCode

@@ -1,0 +1,3 @@
+Title: The Time When the Network Becomes Idle
+Link: https://leetcode.com/problems/the-time-when-the-network-becomes-idle/
+Source: LeetCode

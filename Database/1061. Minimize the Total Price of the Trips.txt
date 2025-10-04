@@ -1,0 +1,3 @@
+Title: Minimize the Total Price of the Trips
+Link: https://leetcode.com/problems/minimize-the-total-price-of-the-trips/
+Source: LeetCode

@@ -1,0 +1,3 @@
+Title: Count Ways to Make Array With Product
+Link: https://leetcode.com/problems/count-ways-to-make-array-with-product/
+Source: LeetCode

@@ -1,0 +1,3 @@
+Title: Maximum Value of K Coins From Piles
+Link: https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/
+Source: LeetCode

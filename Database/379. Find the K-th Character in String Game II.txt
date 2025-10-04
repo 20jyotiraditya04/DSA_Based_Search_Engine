@@ -1,0 +1,3 @@
+Title: Find the K-th Character in String Game II
+Link: https://leetcode.com/problems/find-the-k-th-character-in-string-game-ii/
+Source: LeetCode

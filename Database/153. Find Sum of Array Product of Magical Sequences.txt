@@ -1,0 +1,3 @@
+Title: Find Sum of Array Product of Magical Sequences
+Link: https://leetcode.com/problems/find-sum-of-array-product-of-magical-sequences/
+Source: LeetCode

@@ -1,0 +1,3 @@
+Title: Greatest Common Divisor Traversal
+Link: https://leetcode.com/problems/greatest-common-divisor-traversal/
+Source: LeetCode

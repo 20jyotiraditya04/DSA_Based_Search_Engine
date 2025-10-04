@@ -1,0 +1,3 @@
+Title: Smallest String Starting From Leaf
+Link: https://leetcode.com/problems/smallest-string-starting-from-leaf/
+Source: LeetCode

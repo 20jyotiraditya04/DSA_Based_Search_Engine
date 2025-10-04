@@ -1,0 +1,3 @@
+Title: Maximum Performance of a Team
+Link: https://leetcode.com/problems/maximum-performance-of-a-team/
+Source: LeetCode

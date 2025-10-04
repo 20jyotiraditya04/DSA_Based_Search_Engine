@@ -1,0 +1,3 @@
+Title: Friends Of Appropriate Ages
+Link: https://leetcode.com/problems/friends-of-appropriate-ages/
+Source: LeetCode

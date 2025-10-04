@@ -1,0 +1,3 @@
+Title: Primary Department for Each Employee
+Link: https://leetcode.com/problems/primary-department-for-each-employee/
+Source: LeetCode

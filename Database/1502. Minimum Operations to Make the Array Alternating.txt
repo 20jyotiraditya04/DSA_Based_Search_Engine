@@ -1,0 +1,3 @@
+Title: Minimum Operations to Make the Array Alternating
+Link: https://leetcode.com/problems/minimum-operations-to-make-the-array-alternating/
+Source: LeetCode

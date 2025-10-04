@@ -1,0 +1,3 @@
+Title: Smallest Missing Integer Greater Than Sequential Prefix Sum
+Link: https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/
+Source: LeetCode

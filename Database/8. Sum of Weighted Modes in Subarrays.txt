@@ -1,0 +1,3 @@
+Title: Sum of Weighted Modes in Subarrays
+Link: https://leetcode.com/problems/sum-of-weighted-modes-in-subarrays/
+Source: LeetCode

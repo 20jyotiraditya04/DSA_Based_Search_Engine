@@ -1,0 +1,3 @@
+Title: Find Products with Three Consecutive Digits
+Link: https://leetcode.com/problems/find-products-with-three-consecutive-digits/
+Source: LeetCode

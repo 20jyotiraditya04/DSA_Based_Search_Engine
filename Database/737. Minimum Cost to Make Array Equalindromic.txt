@@ -1,0 +1,3 @@
+Title: Minimum Cost to Make Array Equalindromic
+Link: https://leetcode.com/problems/minimum-cost-to-make-array-equalindromic/
+Source: LeetCode

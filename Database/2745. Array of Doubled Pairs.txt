@@ -1,0 +1,3 @@
+Title: Array of Doubled Pairs
+Link: https://leetcode.com/problems/array-of-doubled-pairs/
+Source: LeetCode

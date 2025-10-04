@@ -1,0 +1,3 @@
+Title: Most Profitable Path in a Tree
+Link: https://leetcode.com/problems/most-profitable-path-in-a-tree/
+Source: LeetCode

@@ -1,0 +1,3 @@
+Title: Minimum Discards to Balance Inventory
+Link: https://leetcode.com/problems/minimum-discards-to-balance-inventory/
+Source: LeetCode

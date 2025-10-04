@@ -1,0 +1,3 @@
+Title: Count Pairs in Two Arrays
+Link: https://leetcode.com/problems/count-pairs-in-two-arrays/
+Source: LeetCode

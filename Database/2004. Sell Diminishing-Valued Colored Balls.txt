@@ -1,0 +1,3 @@
+Title: Sell Diminishing-Valued Colored Balls
+Link: https://leetcode.com/problems/sell-diminishing-valued-colored-balls/
+Source: LeetCode

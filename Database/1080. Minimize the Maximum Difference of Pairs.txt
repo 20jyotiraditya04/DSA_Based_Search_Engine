@@ -1,0 +1,3 @@
+Title: Minimize the Maximum Difference of Pairs
+Link: https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/
+Source: LeetCode

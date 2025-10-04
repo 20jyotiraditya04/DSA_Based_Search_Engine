@@ -1,0 +1,3 @@
+Title: Sum of Floored Pairs
+Link: https://leetcode.com/problems/sum-of-floored-pairs/
+Source: LeetCode

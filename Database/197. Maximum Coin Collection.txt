@@ -1,0 +1,3 @@
+Title: Maximum Coin Collection
+Link: https://leetcode.com/problems/maximum-coin-collection/
+Source: LeetCode

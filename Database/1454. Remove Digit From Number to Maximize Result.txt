@@ -1,0 +1,3 @@
+Title: Remove Digit From Number to Maximize Result
+Link: https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/
+Source: LeetCode

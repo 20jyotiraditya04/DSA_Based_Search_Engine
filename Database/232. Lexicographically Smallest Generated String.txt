@@ -1,0 +1,3 @@
+Title: Lexicographically Smallest Generated String
+Link: https://leetcode.com/problems/lexicographically-smallest-generated-string/
+Source: LeetCode

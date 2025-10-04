@@ -1,0 +1,3 @@
+Title: Count the Number of Substrings With Dominant Ones
+Link: https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/
+Source: LeetCode

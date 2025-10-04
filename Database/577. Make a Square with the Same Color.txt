@@ -1,0 +1,3 @@
+Title: Make a Square with the Same Color
+Link: https://leetcode.com/problems/make-a-square-with-the-same-color/
+Source: LeetCode

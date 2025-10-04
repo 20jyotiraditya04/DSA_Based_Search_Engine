@@ -1,0 +1,3 @@
+Title: Minimum Hours of Training to Win a Competition
+Link: https://leetcode.com/problems/minimum-hours-of-training-to-win-a-competition/
+Source: LeetCode

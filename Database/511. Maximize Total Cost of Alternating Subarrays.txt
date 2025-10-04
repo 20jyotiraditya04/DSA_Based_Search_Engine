@@ -1,0 +1,3 @@
+Title: Maximize Total Cost of Alternating Subarrays
+Link: https://leetcode.com/problems/maximize-total-cost-of-alternating-subarrays/
+Source: LeetCode

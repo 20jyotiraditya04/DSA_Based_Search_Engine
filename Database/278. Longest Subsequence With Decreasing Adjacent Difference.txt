@@ -1,0 +1,3 @@
+Title: Longest Subsequence With Decreasing Adjacent Difference
+Link: https://leetcode.com/problems/longest-subsequence-with-decreasing-adjacent-difference/
+Source: LeetCode

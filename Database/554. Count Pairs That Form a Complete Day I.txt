@@ -1,0 +1,3 @@
+Title: Count Pairs That Form a Complete Day I
+Link: https://leetcode.com/problems/count-pairs-that-form-a-complete-day-i/
+Source: LeetCode

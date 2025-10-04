@@ -1,0 +1,3 @@
+Title: The Dining Philosophers
+Link: https://leetcode.com/problems/the-dining-philosophers/
+Source: LeetCode

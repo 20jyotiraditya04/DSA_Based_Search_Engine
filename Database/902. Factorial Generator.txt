@@ -1,0 +1,3 @@
+Title: Factorial Generator
+Link: https://leetcode.com/problems/factorial-generator/
+Source: LeetCode

@@ -1,0 +1,3 @@
+Title: Truncate Sentence
+Link: https://leetcode.com/problems/truncate-sentence/
+Source: LeetCode

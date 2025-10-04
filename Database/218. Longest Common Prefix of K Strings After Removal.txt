@@ -1,0 +1,3 @@
+Title: Longest Common Prefix of K Strings After Removal
+Link: https://leetcode.com/problems/longest-common-prefix-of-k-strings-after-removal/
+Source: LeetCode

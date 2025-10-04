@@ -1,0 +1,3 @@
+Title: Get Equal Substrings Within Budget
+Link: https://leetcode.com/problems/get-equal-substrings-within-budget/
+Source: LeetCode

@@ -1,0 +1,3 @@
+Title: Minimize the Maximum Adjacent Element Difference
+Link: https://leetcode.com/problems/minimize-the-maximum-adjacent-element-difference/
+Source: LeetCode

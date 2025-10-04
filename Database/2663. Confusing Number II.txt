@@ -1,0 +1,3 @@
+Title: Confusing Number II
+Link: https://leetcode.com/problems/confusing-number-ii/
+Source: LeetCode

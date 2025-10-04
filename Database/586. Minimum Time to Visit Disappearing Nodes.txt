@@ -1,0 +1,3 @@
+Title: Minimum Time to Visit Disappearing Nodes
+Link: https://leetcode.com/problems/minimum-time-to-visit-disappearing-nodes/
+Source: LeetCode

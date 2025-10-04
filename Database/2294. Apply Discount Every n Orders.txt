@@ -1,0 +1,3 @@
+Title: Apply Discount Every n Orders
+Link: https://leetcode.com/problems/apply-discount-every-n-orders/
+Source: LeetCode

@@ -1,0 +1,3 @@
+Title: Partition Array to Minimize XOR
+Link: https://leetcode.com/problems/partition-array-to-minimize-xor/
+Source: LeetCode

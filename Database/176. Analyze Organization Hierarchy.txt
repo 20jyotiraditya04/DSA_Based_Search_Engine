@@ -1,0 +1,3 @@
+Title: Analyze Organization Hierarchy
+Link: https://leetcode.com/problems/analyze-organization-hierarchy/
+Source: LeetCode

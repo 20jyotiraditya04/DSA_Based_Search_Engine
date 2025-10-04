@@ -1,0 +1,3 @@
+Title: Destroy Sequential Targets
+Link: https://leetcode.com/problems/destroy-sequential-targets/
+Source: LeetCode

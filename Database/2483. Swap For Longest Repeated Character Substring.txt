@@ -1,0 +1,3 @@
+Title: Swap For Longest Repeated Character Substring
+Link: https://leetcode.com/problems/swap-for-longest-repeated-character-substring/
+Source: LeetCode

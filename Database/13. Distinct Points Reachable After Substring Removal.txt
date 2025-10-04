@@ -1,0 +1,3 @@
+Title: Distinct Points Reachable After Substring Removal
+Link: https://leetcode.com/problems/distinct-points-reachable-after-substring-removal/
+Source: LeetCode

@@ -1,0 +1,3 @@
+Title: Maximize Spanning Tree Stability with Upgrades
+Link: https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/
+Source: LeetCode

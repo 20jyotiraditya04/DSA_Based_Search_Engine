@@ -1,0 +1,3 @@
+Title: Largest Number After Mutating Substring
+Link: https://leetcode.com/problems/largest-number-after-mutating-substring/
+Source: LeetCode

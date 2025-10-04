@@ -1,0 +1,3 @@
+Title: Find the Punishment Number of an Integer
+Link: https://leetcode.com/problems/find-the-punishment-number-of-an-integer/
+Source: LeetCode

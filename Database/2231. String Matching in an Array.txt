@@ -1,0 +1,3 @@
+Title: String Matching in an Array
+Link: https://leetcode.com/problems/string-matching-in-an-array/
+Source: LeetCode

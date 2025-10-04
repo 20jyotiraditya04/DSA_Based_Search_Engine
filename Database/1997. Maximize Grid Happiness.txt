@@ -1,0 +1,3 @@
+Title: Maximize Grid Happiness
+Link: https://leetcode.com/problems/maximize-grid-happiness/
+Source: LeetCode

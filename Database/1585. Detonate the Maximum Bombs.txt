@@ -1,0 +1,3 @@
+Title: Detonate the Maximum Bombs
+Link: https://leetcode.com/problems/detonate-the-maximum-bombs/
+Source: LeetCode

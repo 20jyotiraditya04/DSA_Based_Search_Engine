@@ -1,0 +1,3 @@
+Title: Make K-Subarray Sums Equal
+Link: https://leetcode.com/problems/make-k-subarray-sums-equal/
+Source: LeetCode

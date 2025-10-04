@@ -9,15 +9,15 @@ all_stopwords= STOPWORDS.union(set(['cses','input','output','example','testcase'
 
 general=[]
 cnt=0
-file_names=open('./prob_names.txt','r').read().split('\n')
-data_path='./Database/'
+file_names=open(os.path.join(os.path.dirname(__file__), 'prob_names.txt'),'r').read().split('\n')
+data_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '../Database/'))
 for file_name in file_names:
-    pth=data_path+file_name+'.txt'
+    pth = data_path + file_name + '.txt'
     if os.path.exists(pth):
-        cnt+=1
-        datas=re.sub('[^a-zA-Z0-9 \n\.]','',open(str(pth),'r').read().lower())
-        keywords = re.findall("[\w']+",datas)
-        keywords=[word for word in keywords if not word in all_stopwords]
+        cnt += 1
+        datas = re.sub(r'[^a-zA-Z0-9 \n\.]', '', open(str(pth), 'r').read().lower())
+        keywords = re.findall(r"[\w']+", datas)
+        keywords = [word for word in keywords if not word in all_stopwords]
         for k in keywords:
             general.append(k)
 unique_keywords=list(set(general))

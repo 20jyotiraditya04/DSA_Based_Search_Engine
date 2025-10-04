@@ -1,0 +1,3 @@
+Title: Count Number of Teams
+Link: https://leetcode.com/problems/count-number-of-teams/
+Source: LeetCode

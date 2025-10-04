@@ -1,0 +1,3 @@
+Title: Count Beautiful Numbers
+Link: https://leetcode.com/problems/count-beautiful-numbers/
+Source: LeetCode

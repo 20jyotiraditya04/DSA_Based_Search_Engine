@@ -1,0 +1,3 @@
+Title: Minimize Product Sum of Two Arrays
+Link: https://leetcode.com/problems/minimize-product-sum-of-two-arrays/
+Source: LeetCode

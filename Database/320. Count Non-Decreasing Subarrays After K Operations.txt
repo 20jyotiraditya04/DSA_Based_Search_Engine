@@ -1,0 +1,3 @@
+Title: Count Non-Decreasing Subarrays After K Operations
+Link: https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/
+Source: LeetCode

@@ -1,0 +1,3 @@
+Title: Prime Arrangements
+Link: https://leetcode.com/problems/prime-arrangements/
+Source: LeetCode

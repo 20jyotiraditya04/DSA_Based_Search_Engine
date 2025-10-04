@@ -1,0 +1,3 @@
+Title: Generate the Invoice
+Link: https://leetcode.com/problems/generate-the-invoice/
+Source: LeetCode

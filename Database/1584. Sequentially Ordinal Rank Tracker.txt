@@ -1,0 +1,3 @@
+Title: Sequentially Ordinal Rank Tracker
+Link: https://leetcode.com/problems/sequentially-ordinal-rank-tracker/
+Source: LeetCode

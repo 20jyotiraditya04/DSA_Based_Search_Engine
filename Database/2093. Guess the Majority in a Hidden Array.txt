@@ -1,0 +1,3 @@
+Title: Guess the Majority in a Hidden Array
+Link: https://leetcode.com/problems/guess-the-majority-in-a-hidden-array/
+Source: LeetCode

@@ -1,0 +1,3 @@
+Title: Count Strictly Increasing Subarrays
+Link: https://leetcode.com/problems/count-strictly-increasing-subarrays/
+Source: LeetCode

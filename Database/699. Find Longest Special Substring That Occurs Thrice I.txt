@@ -1,0 +1,3 @@
+Title: Find Longest Special Substring That Occurs Thrice I
+Link: https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/
+Source: LeetCode

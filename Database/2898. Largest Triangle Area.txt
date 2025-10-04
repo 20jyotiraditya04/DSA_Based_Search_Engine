@@ -1,0 +1,3 @@
+Title: Largest Triangle Area
+Link: https://leetcode.com/problems/largest-triangle-area/
+Source: LeetCode

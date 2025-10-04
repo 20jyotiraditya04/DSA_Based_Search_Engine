@@ -1,0 +1,3 @@
+Title: Longest Chunked Palindrome Decomposition
+Link: https://leetcode.com/problems/longest-chunked-palindrome-decomposition/
+Source: LeetCode

@@ -1,0 +1,3 @@
+Title: Prime In Diagonal
+Link: https://leetcode.com/problems/prime-in-diagonal/
+Source: LeetCode

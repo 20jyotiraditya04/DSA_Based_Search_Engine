@@ -1,0 +1,3 @@
+Title: Minimum Runes to Add to Cast Spell
+Link: https://leetcode.com/problems/minimum-runes-to-add-to-cast-spell/
+Source: LeetCode

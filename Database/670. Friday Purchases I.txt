@@ -1,0 +1,3 @@
+Title: Friday Purchases I
+Link: https://leetcode.com/problems/friday-purchases-i/
+Source: LeetCode

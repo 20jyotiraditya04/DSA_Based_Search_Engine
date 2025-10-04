@@ -1,0 +1,3 @@
+Title: Type of Triangle
+Link: https://leetcode.com/problems/type-of-triangle/
+Source: LeetCode

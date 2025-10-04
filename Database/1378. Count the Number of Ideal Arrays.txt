@@ -1,0 +1,3 @@
+Title: Count the Number of Ideal Arrays
+Link: https://leetcode.com/problems/count-the-number-of-ideal-arrays/
+Source: LeetCode

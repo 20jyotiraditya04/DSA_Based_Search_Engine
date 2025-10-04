@@ -1,0 +1,3 @@
+Title: Count Number of Trapezoids II
+Link: https://leetcode.com/problems/count-number-of-trapezoids-ii/
+Source: LeetCode

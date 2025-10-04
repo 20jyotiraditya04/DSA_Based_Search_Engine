@@ -1,0 +1,3 @@
+Title: Customer Purchasing Behavior Analysis
+Link: https://leetcode.com/problems/customer-purchasing-behavior-analysis/
+Source: LeetCode

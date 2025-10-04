@@ -1,0 +1,3 @@
+Title: Minimum Time to Break Locks I
+Link: https://leetcode.com/problems/minimum-time-to-break-locks-i/
+Source: LeetCode

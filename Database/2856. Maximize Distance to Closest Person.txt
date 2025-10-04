@@ -1,0 +1,3 @@
+Title: Maximize Distance to Closest Person
+Link: https://leetcode.com/problems/maximize-distance-to-closest-person/
+Source: LeetCode

@@ -1,0 +1,3 @@
+Title: Check if Object Instance of Class
+Link: https://leetcode.com/problems/check-if-object-instance-of-class/
+Source: LeetCode

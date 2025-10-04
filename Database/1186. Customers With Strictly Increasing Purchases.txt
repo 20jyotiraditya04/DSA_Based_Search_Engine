@@ -1,0 +1,3 @@
+Title: Customers With Strictly Increasing Purchases
+Link: https://leetcode.com/problems/customers-with-strictly-increasing-purchases/
+Source: LeetCode

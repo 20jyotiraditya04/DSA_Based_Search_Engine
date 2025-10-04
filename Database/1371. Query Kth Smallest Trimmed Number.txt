@@ -1,0 +1,3 @@
+Title: Query Kth Smallest Trimmed Number
+Link: https://leetcode.com/problems/query-kth-smallest-trimmed-number/
+Source: LeetCode

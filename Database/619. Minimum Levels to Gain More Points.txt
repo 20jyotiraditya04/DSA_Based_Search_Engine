@@ -1,0 +1,3 @@
+Title: Minimum Levels to Gain More Points
+Link: https://leetcode.com/problems/minimum-levels-to-gain-more-points/
+Source: LeetCode

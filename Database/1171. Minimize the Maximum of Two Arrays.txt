@@ -1,0 +1,3 @@
+Title: Minimize the Maximum of Two Arrays
+Link: https://leetcode.com/problems/minimize-the-maximum-of-two-arrays/
+Source: LeetCode

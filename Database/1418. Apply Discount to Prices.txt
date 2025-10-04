@@ -1,0 +1,3 @@
+Title: Apply Discount to Prices
+Link: https://leetcode.com/problems/apply-discount-to-prices/
+Source: LeetCode

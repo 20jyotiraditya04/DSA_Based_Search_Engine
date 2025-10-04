@@ -1,0 +1,3 @@
+Title: Count Beautiful Splits in an Array
+Link: https://leetcode.com/problems/count-beautiful-splits-in-an-array/
+Source: LeetCode

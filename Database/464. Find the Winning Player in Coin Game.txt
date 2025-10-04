@@ -1,0 +1,3 @@
+Title: Find the Winning Player in Coin Game
+Link: https://leetcode.com/problems/find-the-winning-player-in-coin-game/
+Source: LeetCode

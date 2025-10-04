@@ -1,0 +1,3 @@
+Title: Naming a Company
+Link: https://leetcode.com/problems/naming-a-company/
+Source: LeetCode

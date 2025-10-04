@@ -1,0 +1,3 @@
+Title: Longest Common Prefix Between Adjacent Strings After Removals
+Link: https://leetcode.com/problems/longest-common-prefix-between-adjacent-strings-after-removals/
+Source: LeetCode

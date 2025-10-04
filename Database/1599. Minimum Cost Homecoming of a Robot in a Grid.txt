@@ -1,0 +1,3 @@
+Title: Minimum Cost Homecoming of a Robot in a Grid
+Link: https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/
+Source: LeetCode

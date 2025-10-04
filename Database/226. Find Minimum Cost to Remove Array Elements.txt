@@ -1,0 +1,3 @@
+Title: Find Minimum Cost to Remove Array Elements
+Link: https://leetcode.com/problems/find-minimum-cost-to-remove-array-elements/
+Source: LeetCode

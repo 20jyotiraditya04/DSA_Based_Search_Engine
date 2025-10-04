@@ -1,0 +1,3 @@
+Title: Short Encoding of Words
+Link: https://leetcode.com/problems/short-encoding-of-words/
+Source: LeetCode

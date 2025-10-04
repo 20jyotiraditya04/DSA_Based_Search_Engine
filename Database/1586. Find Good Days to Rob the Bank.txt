@@ -1,0 +1,3 @@
+Title: Find Good Days to Rob the Bank
+Link: https://leetcode.com/problems/find-good-days-to-rob-the-bank/
+Source: LeetCode

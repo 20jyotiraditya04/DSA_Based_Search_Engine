@@ -1,0 +1,3 @@
+Title: Count Substrings Divisible By Last Digit
+Link: https://leetcode.com/problems/count-substrings-divisible-by-last-digit/
+Source: LeetCode

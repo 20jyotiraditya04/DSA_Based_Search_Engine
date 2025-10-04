@@ -1,0 +1,3 @@
+Title: Smallest Number in Infinite Set
+Link: https://leetcode.com/problems/smallest-number-in-infinite-set/
+Source: LeetCode

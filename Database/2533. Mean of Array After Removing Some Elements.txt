@@ -1,0 +1,3 @@
+Title: Mean of Array After Removing Some Elements
+Link: https://leetcode.com/problems/mean-of-array-after-removing-some-elements/
+Source: LeetCode

@@ -1,0 +1,3 @@
+Title: Maximum Profit of Operating a Centennial Wheel
+Link: https://leetcode.com/problems/maximum-profit-of-operating-a-centennial-wheel/
+Source: LeetCode

@@ -1,0 +1,3 @@
+Title: Highest Salaries Difference
+Link: https://leetcode.com/problems/highest-salaries-difference/
+Source: LeetCode

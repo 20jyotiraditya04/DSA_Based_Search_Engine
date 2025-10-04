@@ -1,0 +1,3 @@
+Title: Find the Original Typed String I
+Link: https://leetcode.com/problems/find-the-original-typed-string-i/
+Source: LeetCode

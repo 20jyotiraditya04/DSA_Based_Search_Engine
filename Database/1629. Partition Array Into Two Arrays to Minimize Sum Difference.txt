@@ -1,0 +1,3 @@
+Title: Partition Array Into Two Arrays to Minimize Sum Difference
+Link: https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/
+Source: LeetCode

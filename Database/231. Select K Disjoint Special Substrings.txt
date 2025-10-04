@@ -1,0 +1,3 @@
+Title: Select K Disjoint Special Substrings
+Link: https://leetcode.com/problems/select-k-disjoint-special-substrings/
+Source: LeetCode

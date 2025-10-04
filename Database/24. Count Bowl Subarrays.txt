@@ -1,0 +1,3 @@
+Title: Count Bowl Subarrays
+Link: https://leetcode.com/problems/count-bowl-subarrays/
+Source: LeetCode

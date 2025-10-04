@@ -1,0 +1,3 @@
+Title: Minimum Moves to Get a Peaceful Board
+Link: https://leetcode.com/problems/minimum-moves-to-get-a-peaceful-board/
+Source: LeetCode

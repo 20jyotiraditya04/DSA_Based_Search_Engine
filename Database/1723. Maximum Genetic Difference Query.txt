@@ -1,0 +1,3 @@
+Title: Maximum Genetic Difference Query
+Link: https://leetcode.com/problems/maximum-genetic-difference-query/
+Source: LeetCode

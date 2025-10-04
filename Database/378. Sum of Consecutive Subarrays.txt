@@ -1,0 +1,3 @@
+Title: Sum of Consecutive Subarrays
+Link: https://leetcode.com/problems/sum-of-consecutive-subarrays/
+Source: LeetCode

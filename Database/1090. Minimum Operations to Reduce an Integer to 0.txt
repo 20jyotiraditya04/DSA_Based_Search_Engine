@@ -1,0 +1,3 @@
+Title: Minimum Operations to Reduce an Integer to 0
+Link: https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0/
+Source: LeetCode

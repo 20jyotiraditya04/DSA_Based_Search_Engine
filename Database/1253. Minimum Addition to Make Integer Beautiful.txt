@@ -1,0 +1,3 @@
+Title: Minimum Addition to Make Integer Beautiful
+Link: https://leetcode.com/problems/minimum-addition-to-make-integer-beautiful/
+Source: LeetCode

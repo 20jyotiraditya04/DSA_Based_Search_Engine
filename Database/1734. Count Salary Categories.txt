@@ -1,0 +1,3 @@
+Title: Count Salary Categories
+Link: https://leetcode.com/problems/count-salary-categories/
+Source: LeetCode

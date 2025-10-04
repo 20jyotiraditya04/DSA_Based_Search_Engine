@@ -1,0 +1,3 @@
+Title: Design a Text Editor
+Link: https://leetcode.com/problems/design-a-text-editor/
+Source: LeetCode

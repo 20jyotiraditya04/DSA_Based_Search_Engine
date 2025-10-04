@@ -1,0 +1,3 @@
+Title: Maximum Increasing Triplet Value
+Link: https://leetcode.com/problems/maximum-increasing-triplet-value/
+Source: LeetCode

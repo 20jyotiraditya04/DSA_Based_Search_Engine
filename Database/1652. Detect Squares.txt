@@ -1,0 +1,3 @@
+Title: Detect Squares
+Link: https://leetcode.com/problems/detect-squares/
+Source: LeetCode

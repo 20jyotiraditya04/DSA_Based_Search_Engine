@@ -1,0 +1,3 @@
+Title: Redistribute Characters to Make All Strings Equal
+Link: https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/
+Source: LeetCode

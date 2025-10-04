@@ -1,0 +1,3 @@
+Title: Bricks Falling When Hit
+Link: https://leetcode.com/problems/bricks-falling-when-hit/
+Source: LeetCode

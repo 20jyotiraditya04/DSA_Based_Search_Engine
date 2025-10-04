@@ -1,0 +1,3 @@
+Title: Maximal Network Rank
+Link: https://leetcode.com/problems/maximal-network-rank/
+Source: LeetCode

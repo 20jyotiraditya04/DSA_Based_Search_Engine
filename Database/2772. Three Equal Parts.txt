@@ -1,0 +1,3 @@
+Title: Three Equal Parts
+Link: https://leetcode.com/problems/three-equal-parts/
+Source: LeetCode

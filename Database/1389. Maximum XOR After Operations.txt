@@ -1,0 +1,3 @@
+Title: Maximum XOR After Operations
+Link: https://leetcode.com/problems/maximum-xor-after-operations/
+Source: LeetCode

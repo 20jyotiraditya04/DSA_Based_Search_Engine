@@ -1,0 +1,3 @@
+Title: Minimum Cost to Buy Apples
+Link: https://leetcode.com/problems/minimum-cost-to-buy-apples/
+Source: LeetCode

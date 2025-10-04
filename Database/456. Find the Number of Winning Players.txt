@@ -1,0 +1,3 @@
+Title: Find the Number of Winning Players
+Link: https://leetcode.com/problems/find-the-number-of-winning-players/
+Source: LeetCode

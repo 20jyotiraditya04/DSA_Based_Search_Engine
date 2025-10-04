@@ -1,0 +1,3 @@
+Title: Longest Unequal Adjacent Groups Subsequence II
+Link: https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/
+Source: LeetCode

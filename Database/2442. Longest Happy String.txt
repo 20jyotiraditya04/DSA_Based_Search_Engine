@@ -1,0 +1,3 @@
+Title: Longest Happy String
+Link: https://leetcode.com/problems/longest-happy-string/
+Source: LeetCode

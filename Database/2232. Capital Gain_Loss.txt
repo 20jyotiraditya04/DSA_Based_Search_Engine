@@ -1,0 +1,3 @@
+Title: Capital Gain/Loss
+Link: https://leetcode.com/problems/capital-gainloss/
+Source: LeetCode

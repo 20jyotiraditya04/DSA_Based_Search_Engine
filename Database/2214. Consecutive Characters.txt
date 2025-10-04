@@ -1,0 +1,3 @@
+Title: Consecutive Characters
+Link: https://leetcode.com/problems/consecutive-characters/
+Source: LeetCode

@@ -1,0 +1,3 @@
+Title: Maximum Length of Semi-Decreasing Subarrays
+Link: https://leetcode.com/problems/maximum-length-of-semi-decreasing-subarrays/
+Source: LeetCode

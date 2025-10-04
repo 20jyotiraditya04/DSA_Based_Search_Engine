@@ -1,0 +1,3 @@
+Title: Maximum Cost of Trip With K Highways
+Link: https://leetcode.com/problems/maximum-cost-of-trip-with-k-highways/
+Source: LeetCode

@@ -1,0 +1,3 @@
+Title: Abbreviating the Product of a Range
+Link: https://leetcode.com/problems/abbreviating-the-product-of-a-range/
+Source: LeetCode

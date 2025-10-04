@@ -1,0 +1,3 @@
+Title: Manager of the Largest Department
+Link: https://leetcode.com/problems/manager-of-the-largest-department/
+Source: LeetCode

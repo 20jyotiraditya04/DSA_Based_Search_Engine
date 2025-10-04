@@ -1,0 +1,3 @@
+Title: Minimum Number of Operations to Make Elements in Array Distinct
+Link: https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/
+Source: LeetCode

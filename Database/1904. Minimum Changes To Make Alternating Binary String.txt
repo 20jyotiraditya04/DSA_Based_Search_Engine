@@ -1,0 +1,3 @@
+Title: Minimum Changes To Make Alternating Binary String
+Link: https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/
+Source: LeetCode

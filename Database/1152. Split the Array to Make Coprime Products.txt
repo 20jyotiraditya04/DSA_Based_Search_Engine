@@ -1,0 +1,3 @@
+Title: Split the Array to Make Coprime Products
+Link: https://leetcode.com/problems/split-the-array-to-make-coprime-products/
+Source: LeetCode

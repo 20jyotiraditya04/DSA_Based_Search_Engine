@@ -1,0 +1,3 @@
+Title: Find All Good Indices
+Link: https://leetcode.com/problems/find-all-good-indices/
+Source: LeetCode

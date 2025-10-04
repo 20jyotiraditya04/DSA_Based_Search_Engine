@@ -1,0 +1,3 @@
+Title: Count Partitions With Max-Min Difference at Most K
+Link: https://leetcode.com/problems/count-partitions-with-max-min-difference-at-most-k/
+Source: LeetCode

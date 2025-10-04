@@ -1,0 +1,3 @@
+Title: Minimum Time to Transport All Individuals
+Link: https://leetcode.com/problems/minimum-time-to-transport-all-individuals/
+Source: LeetCode

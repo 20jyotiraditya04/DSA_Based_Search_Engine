@@ -1,0 +1,3 @@
+Title: Maximum Points in an Archery Competition
+Link: https://leetcode.com/problems/maximum-points-in-an-archery-competition/
+Source: LeetCode

@@ -1,0 +1,3 @@
+Title: Fix Names in a Table
+Link: https://leetcode.com/problems/fix-names-in-a-table/
+Source: LeetCode

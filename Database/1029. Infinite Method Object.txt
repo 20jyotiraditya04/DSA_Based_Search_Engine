@@ -1,0 +1,3 @@
+Title: Infinite Method Object
+Link: https://leetcode.com/problems/infinite-method-object/
+Source: LeetCode

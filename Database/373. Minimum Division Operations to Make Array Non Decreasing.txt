@@ -1,0 +1,3 @@
+Title: Minimum Division Operations to Make Array Non Decreasing
+Link: https://leetcode.com/problems/minimum-division-operations-to-make-array-non-decreasing/
+Source: LeetCode

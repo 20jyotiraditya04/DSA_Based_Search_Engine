@@ -1,0 +1,3 @@
+Title: Minimum Cost for Cutting Cake I
+Link: https://leetcode.com/problems/minimum-cost-for-cutting-cake-i/
+Source: LeetCode

@@ -1,0 +1,3 @@
+Title: Minimum Cost to Make Arrays Identical
+Link: https://leetcode.com/problems/minimum-cost-to-make-arrays-identical/
+Source: LeetCode

@@ -1,0 +1,3 @@
+Title: Seat Reservation Manager
+Link: https://leetcode.com/problems/seat-reservation-manager/
+Source: LeetCode

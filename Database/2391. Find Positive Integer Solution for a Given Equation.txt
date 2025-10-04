@@ -1,0 +1,3 @@
+Title: Find Positive Integer Solution for a Given Equation
+Link: https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/
+Source: LeetCode

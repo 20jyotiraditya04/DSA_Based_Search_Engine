@@ -1,0 +1,3 @@
+Title: Minimum Incompatibility
+Link: https://leetcode.com/problems/minimum-incompatibility/
+Source: LeetCode

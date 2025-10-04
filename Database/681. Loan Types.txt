@@ -1,0 +1,3 @@
+Title: Loan Types
+Link: https://leetcode.com/problems/loan-types/
+Source: LeetCode

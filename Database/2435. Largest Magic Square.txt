@@ -1,0 +1,3 @@
+Title: Largest Magic Square
+Link: https://leetcode.com/problems/largest-magic-square/
+Source: LeetCode

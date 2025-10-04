@@ -1,0 +1,3 @@
+Title: Maximum Number of Removable Characters
+Link: https://leetcode.com/problems/maximum-number-of-removable-characters/
+Source: LeetCode

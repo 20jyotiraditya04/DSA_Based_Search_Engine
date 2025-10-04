@@ -1,0 +1,3 @@
+Title: Balanced K-Factor Decomposition
+Link: https://leetcode.com/problems/balanced-k-factor-decomposition/
+Source: LeetCode

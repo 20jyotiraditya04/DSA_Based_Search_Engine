@@ -1,0 +1,3 @@
+Title: Maximum Ice Cream Bars
+Link: https://leetcode.com/problems/maximum-ice-cream-bars/
+Source: LeetCode

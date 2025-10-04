@@ -1,0 +1,3 @@
+Title: Design a Food Rating System
+Link: https://leetcode.com/problems/design-a-food-rating-system/
+Source: LeetCode

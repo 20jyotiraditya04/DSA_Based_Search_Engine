@@ -1,0 +1,3 @@
+Title: Subsequence With the Minimum Score
+Link: https://leetcode.com/problems/subsequence-with-the-minimum-score/
+Source: LeetCode

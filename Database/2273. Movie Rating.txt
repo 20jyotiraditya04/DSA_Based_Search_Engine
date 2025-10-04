@@ -1,0 +1,3 @@
+Title: Movie Rating
+Link: https://leetcode.com/problems/movie-rating/
+Source: LeetCode

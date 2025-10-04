@@ -1,0 +1,3 @@
+Title: Maximum 69 Number
+Link: https://leetcode.com/problems/maximum-69-number/
+Source: LeetCode

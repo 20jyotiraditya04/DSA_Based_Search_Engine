@@ -1,0 +1,3 @@
+Title: Check if it is Possible to Split Array
+Link: https://leetcode.com/problems/check-if-it-is-possible-to-split-array/
+Source: LeetCode

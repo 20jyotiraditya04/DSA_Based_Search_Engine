@@ -1,0 +1,3 @@
+Title: Sorted GCD Pair Queries
+Link: https://leetcode.com/problems/sorted-gcd-pair-queries/
+Source: LeetCode

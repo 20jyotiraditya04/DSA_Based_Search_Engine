@@ -1,0 +1,3 @@
+Title: Count Number of Homogenous Substrings
+Link: https://leetcode.com/problems/count-number-of-homogenous-substrings/
+Source: LeetCode

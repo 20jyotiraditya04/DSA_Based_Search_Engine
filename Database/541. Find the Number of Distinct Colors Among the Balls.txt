@@ -1,0 +1,3 @@
+Title: Find the Number of Distinct Colors Among the Balls
+Link: https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/
+Source: LeetCode

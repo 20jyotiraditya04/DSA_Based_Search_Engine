@@ -1,0 +1,3 @@
+Title: Maximum Product of Two Digits
+Link: https://leetcode.com/problems/maximum-product-of-two-digits/
+Source: LeetCode

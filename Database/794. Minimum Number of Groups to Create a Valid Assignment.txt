@@ -1,0 +1,3 @@
+Title: Minimum Number of Groups to Create a Valid Assignment
+Link: https://leetcode.com/problems/minimum-number-of-groups-to-create-a-valid-assignment/
+Source: LeetCode

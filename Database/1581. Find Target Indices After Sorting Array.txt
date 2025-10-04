@@ -1,0 +1,3 @@
+Title: Find Target Indices After Sorting Array
+Link: https://leetcode.com/problems/find-target-indices-after-sorting-array/
+Source: LeetCode

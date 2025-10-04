@@ -1,0 +1,3 @@
+Title: Minimum Sensors to Cover Grid
+Link: https://leetcode.com/problems/minimum-sensors-to-cover-grid/
+Source: LeetCode

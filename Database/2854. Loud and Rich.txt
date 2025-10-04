@@ -1,0 +1,3 @@
+Title: Loud and Rich
+Link: https://leetcode.com/problems/loud-and-rich/
+Source: LeetCode

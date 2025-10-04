@@ -1,0 +1,3 @@
+Title: Apply Substitutions
+Link: https://leetcode.com/problems/apply-substitutions/
+Source: LeetCode

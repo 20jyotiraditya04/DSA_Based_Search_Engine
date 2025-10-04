@@ -1,0 +1,3 @@
+Title: Minimum Sum of Squared Difference
+Link: https://leetcode.com/problems/minimum-sum-of-squared-difference/
+Source: LeetCode

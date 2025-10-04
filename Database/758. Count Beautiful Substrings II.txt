@@ -1,0 +1,3 @@
+Title: Count Beautiful Substrings II
+Link: https://leetcode.com/problems/count-beautiful-substrings-ii/
+Source: LeetCode

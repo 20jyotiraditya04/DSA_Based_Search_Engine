@@ -1,0 +1,3 @@
+Title: Maximum Repeating Substring
+Link: https://leetcode.com/problems/maximum-repeating-substring/
+Source: LeetCode

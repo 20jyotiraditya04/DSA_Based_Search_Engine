@@ -1,0 +1,3 @@
+Title: Pizza Toppings Cost Analysis
+Link: https://leetcode.com/problems/pizza-toppings-cost-analysis/
+Source: LeetCode

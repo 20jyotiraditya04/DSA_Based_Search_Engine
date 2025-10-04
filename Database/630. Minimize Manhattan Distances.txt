@@ -1,0 +1,3 @@
+Title: Minimize Manhattan Distances
+Link: https://leetcode.com/problems/minimize-manhattan-distances/
+Source: LeetCode

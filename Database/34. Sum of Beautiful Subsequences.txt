@@ -1,0 +1,3 @@
+Title: Sum of Beautiful Subsequences
+Link: https://leetcode.com/problems/sum-of-beautiful-subsequences/
+Source: LeetCode

@@ -1,0 +1,3 @@
+Title: Average Height of Buildings in Each Segment
+Link: https://leetcode.com/problems/average-height-of-buildings-in-each-segment/
+Source: LeetCode

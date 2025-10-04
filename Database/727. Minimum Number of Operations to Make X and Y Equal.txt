@@ -1,0 +1,3 @@
+Title: Minimum Number of Operations to Make X and Y Equal
+Link: https://leetcode.com/problems/minimum-number-of-operations-to-make-x-and-y-equal/
+Source: LeetCode

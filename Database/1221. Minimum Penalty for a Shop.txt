@@ -1,0 +1,3 @@
+Title: Minimum Penalty for a Shop
+Link: https://leetcode.com/problems/minimum-penalty-for-a-shop/
+Source: LeetCode

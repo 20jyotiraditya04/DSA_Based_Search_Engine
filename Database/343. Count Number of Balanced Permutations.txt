@@ -1,0 +1,3 @@
+Title: Count Number of Balanced Permutations
+Link: https://leetcode.com/problems/count-number-of-balanced-permutations/
+Source: LeetCode

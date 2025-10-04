@@ -1,0 +1,3 @@
+Title: Nth Magical Number
+Link: https://leetcode.com/problems/nth-magical-number/
+Source: LeetCode

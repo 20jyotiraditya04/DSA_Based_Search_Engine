@@ -1,0 +1,3 @@
+Title: Closest Fair Integer
+Link: https://leetcode.com/problems/closest-fair-integer/
+Source: LeetCode

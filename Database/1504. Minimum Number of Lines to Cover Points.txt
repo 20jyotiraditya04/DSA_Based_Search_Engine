@@ -1,0 +1,3 @@
+Title: Minimum Number of Lines to Cover Points
+Link: https://leetcode.com/problems/minimum-number-of-lines-to-cover-points/
+Source: LeetCode

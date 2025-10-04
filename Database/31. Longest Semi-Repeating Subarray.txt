@@ -1,0 +1,3 @@
+Title: Longest Semi-Repeating Subarray
+Link: https://leetcode.com/problems/longest-semi-repeating-subarray/
+Source: LeetCode

@@ -1,0 +1,3 @@
+Title: Design Authentication Manager
+Link: https://leetcode.com/problems/design-authentication-manager/
+Source: LeetCode

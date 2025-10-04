@@ -1,0 +1,3 @@
+Title: The First Day of the Maximum Recorded Degree in Each City
+Link: https://leetcode.com/problems/the-first-day-of-the-maximum-recorded-degree-in-each-city/
+Source: LeetCode

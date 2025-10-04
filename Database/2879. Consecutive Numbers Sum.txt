@@ -1,0 +1,3 @@
+Title: Consecutive Numbers Sum
+Link: https://leetcode.com/problems/consecutive-numbers-sum/
+Source: LeetCode

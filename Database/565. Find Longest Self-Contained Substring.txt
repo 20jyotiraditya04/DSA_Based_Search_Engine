@@ -1,0 +1,3 @@
+Title: Find Longest Self-Contained Substring
+Link: https://leetcode.com/problems/find-longest-self-contained-substring/
+Source: LeetCode

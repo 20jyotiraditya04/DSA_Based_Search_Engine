@@ -1,0 +1,3 @@
+Title: Destroying Asteroids
+Link: https://leetcode.com/problems/destroying-asteroids/
+Source: LeetCode

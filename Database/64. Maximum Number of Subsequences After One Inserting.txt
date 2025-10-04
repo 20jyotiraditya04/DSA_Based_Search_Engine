@@ -1,0 +1,3 @@
+Title: Maximum Number of Subsequences After One Inserting
+Link: https://leetcode.com/problems/maximum-number-of-subsequences-after-one-inserting/
+Source: LeetCode

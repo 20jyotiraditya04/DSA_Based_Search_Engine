@@ -1,0 +1,3 @@
+Title: Count Binary Palindromic Numbers
+Link: https://leetcode.com/problems/count-binary-palindromic-numbers/
+Source: LeetCode

@@ -1,0 +1,3 @@
+Title: Minimum Domino Rotations For Equal Row
+Link: https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/
+Source: LeetCode

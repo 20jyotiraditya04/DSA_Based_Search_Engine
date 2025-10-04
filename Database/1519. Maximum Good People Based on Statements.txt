@@ -1,0 +1,3 @@
+Title: Maximum Good People Based on Statements
+Link: https://leetcode.com/problems/maximum-good-people-based-on-statements/
+Source: LeetCode

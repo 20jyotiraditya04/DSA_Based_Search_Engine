@@ -1,0 +1,3 @@
+Title: Longest Path With Different Adjacent Characters
+Link: https://leetcode.com/problems/longest-path-with-different-adjacent-characters/
+Source: LeetCode

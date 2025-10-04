@@ -1,0 +1,3 @@
+Title: Right Triangles
+Link: https://leetcode.com/problems/right-triangles/
+Source: LeetCode

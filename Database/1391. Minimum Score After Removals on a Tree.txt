@@ -1,0 +1,3 @@
+Title: Minimum Score After Removals on a Tree
+Link: https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/
+Source: LeetCode

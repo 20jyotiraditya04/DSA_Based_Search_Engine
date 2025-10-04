@@ -1,0 +1,3 @@
+Title: Single-Threaded CPU
+Link: https://leetcode.com/problems/single-threaded-cpu/
+Source: LeetCode

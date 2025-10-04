@@ -1,0 +1,3 @@
+Title: Pyramid Transition Matrix
+Link: https://leetcode.com/problems/pyramid-transition-matrix/
+Source: LeetCode

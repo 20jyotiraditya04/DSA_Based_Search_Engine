@@ -1,0 +1,3 @@
+Title: Longest Alternating Subarray
+Link: https://leetcode.com/problems/longest-alternating-subarray/
+Source: LeetCode

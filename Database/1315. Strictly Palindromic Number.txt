@@ -1,0 +1,3 @@
+Title: Strictly Palindromic Number
+Link: https://leetcode.com/problems/strictly-palindromic-number/
+Source: LeetCode

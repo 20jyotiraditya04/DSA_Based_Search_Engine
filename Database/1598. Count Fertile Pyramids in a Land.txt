@@ -1,0 +1,3 @@
+Title: Count Fertile Pyramids in a Land
+Link: https://leetcode.com/problems/count-fertile-pyramids-in-a-land/
+Source: LeetCode

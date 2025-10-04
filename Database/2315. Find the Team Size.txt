@@ -1,0 +1,3 @@
+Title: Find the Team Size
+Link: https://leetcode.com/problems/find-the-team-size/
+Source: LeetCode

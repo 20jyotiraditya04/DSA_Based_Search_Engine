@@ -1,0 +1,3 @@
+Title: Minimum Cost to Change the Final Value of Expression
+Link: https://leetcode.com/problems/minimum-cost-to-change-the-final-value-of-expression/
+Source: LeetCode

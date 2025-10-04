@@ -1,0 +1,3 @@
+Title: Dynamic Unpivoting of a Table
+Link: https://leetcode.com/problems/dynamic-unpivoting-of-a-table/
+Source: LeetCode

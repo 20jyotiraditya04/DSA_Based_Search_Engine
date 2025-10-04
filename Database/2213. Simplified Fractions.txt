@@ -1,0 +1,3 @@
+Title: Simplified Fractions
+Link: https://leetcode.com/problems/simplified-fractions/
+Source: LeetCode

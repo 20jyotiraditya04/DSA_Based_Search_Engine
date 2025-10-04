@@ -1,0 +1,3 @@
+Title: Smallest Sufficient Team
+Link: https://leetcode.com/problems/smallest-sufficient-team/
+Source: LeetCode

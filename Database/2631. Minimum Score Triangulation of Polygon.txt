@@ -1,0 +1,3 @@
+Title: Minimum Score Triangulation of Polygon
+Link: https://leetcode.com/problems/minimum-score-triangulation-of-polygon/
+Source: LeetCode

@@ -1,0 +1,3 @@
+Title: Lexicographically Smallest Beautiful String
+Link: https://leetcode.com/problems/lexicographically-smallest-beautiful-string/
+Source: LeetCode

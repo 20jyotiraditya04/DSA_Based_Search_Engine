@@ -1,0 +1,3 @@
+Title: Minimum Total Distance Traveled
+Link: https://leetcode.com/problems/minimum-total-distance-traveled/
+Source: LeetCode

@@ -1,0 +1,3 @@
+Title: Bitwise User Permissions Analysis
+Link: https://leetcode.com/problems/bitwise-user-permissions-analysis/
+Source: LeetCode

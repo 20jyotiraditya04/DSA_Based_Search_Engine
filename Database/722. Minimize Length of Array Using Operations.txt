@@ -1,0 +1,3 @@
+Title: Minimize Length of Array Using Operations
+Link: https://leetcode.com/problems/minimize-length-of-array-using-operations/
+Source: LeetCode

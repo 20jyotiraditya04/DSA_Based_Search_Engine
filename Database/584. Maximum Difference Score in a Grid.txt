@@ -1,0 +1,3 @@
+Title: Maximum Difference Score in a Grid
+Link: https://leetcode.com/problems/maximum-difference-score-in-a-grid/
+Source: LeetCode

@@ -1,0 +1,3 @@
+Title: Magic Squares In Grid
+Link: https://leetcode.com/problems/magic-squares-in-grid/
+Source: LeetCode

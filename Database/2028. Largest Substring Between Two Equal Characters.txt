@@ -1,0 +1,3 @@
+Title: Largest Substring Between Two Equal Characters
+Link: https://leetcode.com/problems/largest-substring-between-two-equal-characters/
+Source: LeetCode

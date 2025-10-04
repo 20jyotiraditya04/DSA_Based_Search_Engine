@@ -1,0 +1,3 @@
+Title: Maximum Linear Stock Score
+Link: https://leetcode.com/problems/maximum-linear-stock-score/
+Source: LeetCode

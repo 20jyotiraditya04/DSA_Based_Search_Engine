@@ -1,0 +1,3 @@
+Title: Maximum of Minimum Values in All Subarrays
+Link: https://leetcode.com/problems/maximum-of-minimum-values-in-all-subarrays/
+Source: LeetCode

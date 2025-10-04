@@ -1,0 +1,3 @@
+Title: Find the Sequence of Strings Appeared on the Screen
+Link: https://leetcode.com/problems/find-the-sequence-of-strings-appeared-on-the-screen/
+Source: LeetCode

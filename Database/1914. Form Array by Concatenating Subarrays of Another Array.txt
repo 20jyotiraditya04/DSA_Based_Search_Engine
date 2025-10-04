@@ -1,0 +1,3 @@
+Title: Form Array by Concatenating Subarrays of Another Array
+Link: https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array/
+Source: LeetCode

@@ -1,0 +1,3 @@
+Title: Longest Duplicate Substring
+Link: https://leetcode.com/problems/longest-duplicate-substring/
+Source: LeetCode

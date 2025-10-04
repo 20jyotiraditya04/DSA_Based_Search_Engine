@@ -1,0 +1,3 @@
+Title: Find the Original Typed String II
+Link: https://leetcode.com/problems/find-the-original-typed-string-ii/
+Source: LeetCode

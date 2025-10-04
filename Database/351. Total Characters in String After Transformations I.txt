@@ -1,0 +1,3 @@
+Title: Total Characters in String After Transformations I
+Link: https://leetcode.com/problems/total-characters-in-string-after-transformations-i/
+Source: LeetCode

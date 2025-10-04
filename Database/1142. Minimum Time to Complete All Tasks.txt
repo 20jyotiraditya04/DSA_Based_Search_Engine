@@ -1,0 +1,3 @@
+Title: Minimum Time to Complete All Tasks
+Link: https://leetcode.com/problems/minimum-time-to-complete-all-tasks/
+Source: LeetCode

@@ -1,0 +1,3 @@
+Title: Manhattan Distances of All Arrangements of Pieces
+Link: https://leetcode.com/problems/manhattan-distances-of-all-arrangements-of-pieces/
+Source: LeetCode

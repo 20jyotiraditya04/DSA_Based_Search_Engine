@@ -1,0 +1,3 @@
+Title: Stone Game VI
+Link: https://leetcode.com/problems/stone-game-vi/
+Source: LeetCode

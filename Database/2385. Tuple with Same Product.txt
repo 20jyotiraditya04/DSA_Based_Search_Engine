@@ -1,0 +1,3 @@
+Title: Tuple with Same Product
+Link: https://leetcode.com/problems/tuple-with-same-product/
+Source: LeetCode

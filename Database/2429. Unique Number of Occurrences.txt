@@ -1,0 +1,3 @@
+Title: Unique Number of Occurrences
+Link: https://leetcode.com/problems/unique-number-of-occurrences/
+Source: LeetCode

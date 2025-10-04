@@ -1,0 +1,3 @@
+Title: Maximum Odd Binary Number
+Link: https://leetcode.com/problems/maximum-odd-binary-number/
+Source: LeetCode

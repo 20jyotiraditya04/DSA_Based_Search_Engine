@@ -1,0 +1,3 @@
+Title: Delay the Resolution of Each Promise
+Link: https://leetcode.com/problems/delay-the-resolution-of-each-promise/
+Source: LeetCode

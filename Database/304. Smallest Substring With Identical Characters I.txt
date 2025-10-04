@@ -1,0 +1,3 @@
+Title: Smallest Substring With Identical Characters I
+Link: https://leetcode.com/problems/smallest-substring-with-identical-characters-i/
+Source: LeetCode

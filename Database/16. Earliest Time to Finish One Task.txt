@@ -1,0 +1,3 @@
+Title: Earliest Time to Finish One Task
+Link: https://leetcode.com/problems/earliest-time-to-finish-one-task/
+Source: LeetCode

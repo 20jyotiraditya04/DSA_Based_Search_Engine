@@ -1,0 +1,3 @@
+Title: Minimum Split Into Subarrays With GCD Greater Than One
+Link: https://leetcode.com/problems/minimum-split-into-subarrays-with-gcd-greater-than-one/
+Source: LeetCode

@@ -1,0 +1,3 @@
+Title: Create Components With Same Value
+Link: https://leetcode.com/problems/create-components-with-same-value/
+Source: LeetCode

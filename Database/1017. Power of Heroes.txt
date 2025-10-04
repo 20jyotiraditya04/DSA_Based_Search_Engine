@@ -1,0 +1,3 @@
+Title: Power of Heroes
+Link: https://leetcode.com/problems/power-of-heroes/
+Source: LeetCode

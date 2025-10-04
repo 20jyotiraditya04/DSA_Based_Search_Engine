@@ -1,0 +1,3 @@
+Title: Maximum Good Subarray Sum
+Link: https://leetcode.com/problems/maximum-good-subarray-sum/
+Source: LeetCode

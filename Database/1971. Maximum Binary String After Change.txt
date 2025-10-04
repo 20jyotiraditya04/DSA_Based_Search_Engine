@@ -1,0 +1,3 @@
+Title: Maximum Binary String After Change
+Link: https://leetcode.com/problems/maximum-binary-string-after-change/
+Source: LeetCode

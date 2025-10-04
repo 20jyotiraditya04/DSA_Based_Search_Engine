@@ -1,0 +1,3 @@
+Title: Longest Nice Substring
+Link: https://leetcode.com/problems/longest-nice-substring/
+Source: LeetCode

@@ -1,0 +1,3 @@
+Title: Count the Number of Beautiful Subarrays
+Link: https://leetcode.com/problems/count-the-number-of-beautiful-subarrays/
+Source: LeetCode

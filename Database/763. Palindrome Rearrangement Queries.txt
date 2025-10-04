@@ -1,0 +1,3 @@
+Title: Palindrome Rearrangement Queries
+Link: https://leetcode.com/problems/palindrome-rearrangement-queries/
+Source: LeetCode

@@ -1,0 +1,3 @@
+Title: Can Make Arithmetic Progression From Sequence
+Link: https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/
+Source: LeetCode

@@ -1,0 +1,3 @@
+Title: Display Table of Food Orders in a Restaurant
+Link: https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/
+Source: LeetCode

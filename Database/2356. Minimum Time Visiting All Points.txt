@@ -1,0 +1,3 @@
+Title: Minimum Time Visiting All Points
+Link: https://leetcode.com/problems/minimum-time-visiting-all-points/
+Source: LeetCode

@@ -1,0 +1,3 @@
+Title: Maximum Number of Consecutive Values You Can Make
+Link: https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make/
+Source: LeetCode

@@ -1,0 +1,3 @@
+Title: Find Occurrences of an Element in an Array
+Link: https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array/
+Source: LeetCode

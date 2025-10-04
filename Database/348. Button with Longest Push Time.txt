@@ -1,0 +1,3 @@
+Title: Button with Longest Push Time
+Link: https://leetcode.com/problems/button-with-longest-push-time/
+Source: LeetCode

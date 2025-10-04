@@ -1,0 +1,3 @@
+Title: Design Browser History
+Link: https://leetcode.com/problems/design-browser-history/
+Source: LeetCode

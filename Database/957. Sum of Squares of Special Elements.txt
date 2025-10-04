@@ -1,0 +1,3 @@
+Title: Sum of Squares of Special Elements
+Link: https://leetcode.com/problems/sum-of-squares-of-special-elements/
+Source: LeetCode

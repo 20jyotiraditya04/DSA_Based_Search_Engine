@@ -1,0 +1,3 @@
+Title: Maximum Subarray With Equal Products
+Link: https://leetcode.com/problems/maximum-subarray-with-equal-products/
+Source: LeetCode

@@ -1,0 +1,3 @@
+Title: Users With Two Purchases Within Seven Days
+Link: https://leetcode.com/problems/users-with-two-purchases-within-seven-days/
+Source: LeetCode

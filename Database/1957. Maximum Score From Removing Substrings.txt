@@ -1,0 +1,3 @@
+Title: Maximum Score From Removing Substrings
+Link: https://leetcode.com/problems/maximum-score-from-removing-substrings/
+Source: LeetCode

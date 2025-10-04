@@ -1,0 +1,3 @@
+Title: Longest Square Streak in an Array
+Link: https://leetcode.com/problems/longest-square-streak-in-an-array/
+Source: LeetCode

@@ -1,0 +1,3 @@
+Title: Split With Minimum Sum
+Link: https://leetcode.com/problems/split-with-minimum-sum/
+Source: LeetCode

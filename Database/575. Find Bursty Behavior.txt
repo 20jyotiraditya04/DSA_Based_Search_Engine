@@ -1,0 +1,3 @@
+Title: Find Bursty Behavior
+Link: https://leetcode.com/problems/find-bursty-behavior/
+Source: LeetCode

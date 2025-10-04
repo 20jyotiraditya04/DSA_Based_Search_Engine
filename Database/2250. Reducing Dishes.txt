@@ -1,0 +1,3 @@
+Title: Reducing Dishes
+Link: https://leetcode.com/problems/reducing-dishes/
+Source: LeetCode

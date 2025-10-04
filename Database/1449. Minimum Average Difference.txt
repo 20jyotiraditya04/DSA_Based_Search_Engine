@@ -1,0 +1,3 @@
+Title: Minimum Average Difference
+Link: https://leetcode.com/problems/minimum-average-difference/
+Source: LeetCode

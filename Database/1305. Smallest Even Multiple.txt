@@ -1,0 +1,3 @@
+Title: Smallest Even Multiple
+Link: https://leetcode.com/problems/smallest-even-multiple/
+Source: LeetCode

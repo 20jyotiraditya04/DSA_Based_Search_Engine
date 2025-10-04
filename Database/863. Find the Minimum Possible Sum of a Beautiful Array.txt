@@ -1,0 +1,3 @@
+Title: Find the Minimum Possible Sum of a Beautiful Array
+Link: https://leetcode.com/problems/find-the-minimum-possible-sum-of-a-beautiful-array/
+Source: LeetCode

@@ -1,0 +1,3 @@
+Title: Compute the Rank as a Percentage
+Link: https://leetcode.com/problems/compute-the-rank-as-a-percentage/
+Source: LeetCode

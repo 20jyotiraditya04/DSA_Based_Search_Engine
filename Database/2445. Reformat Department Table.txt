@@ -1,0 +1,3 @@
+Title: Reformat Department Table
+Link: https://leetcode.com/problems/reformat-department-table/
+Source: LeetCode

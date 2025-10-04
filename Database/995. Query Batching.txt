@@ -1,0 +1,3 @@
+Title: Query Batching
+Link: https://leetcode.com/problems/query-batching/
+Source: LeetCode

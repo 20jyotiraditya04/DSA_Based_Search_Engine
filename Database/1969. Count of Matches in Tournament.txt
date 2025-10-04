@@ -1,0 +1,3 @@
+Title: Count of Matches in Tournament
+Link: https://leetcode.com/problems/count-of-matches-in-tournament/
+Source: LeetCode

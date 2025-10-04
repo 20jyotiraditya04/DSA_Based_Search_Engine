@@ -1,0 +1,3 @@
+Title: Hexadecimal and Hexatrigesimal Conversion
+Link: https://leetcode.com/problems/hexadecimal-and-hexatrigesimal-conversion/
+Source: LeetCode
